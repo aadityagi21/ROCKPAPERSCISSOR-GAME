@@ -1,6 +1,6 @@
 print("*********************** ROCK , PAPER , SCISSOR GAME ******************")
 print("********** r STANDS FOR ROCK , p STANDS FOR PAPER , s STANDS FOR SCISSOR ***************")
-
+# THis is the code writte n by aadi
 i=1
 while(i):
     a=input("Enter your choice PLAYER 1 ==")
